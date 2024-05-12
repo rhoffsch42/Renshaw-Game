@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Item from "@/app/lib/Item";
 import GameState from "@/app/lib/game-state";
+import GameUI_1 from "../ui/game-ui-1";
 
 export default function MainGame() {
   const jsonUrl: URL = new URL(
@@ -11,9 +12,7 @@ export default function MainGame() {
 
   return (
     <>
-      <div className="bg-gray-800">
-
-      </div>
+      <GameUI_1 />
     </>
   );
 }
