@@ -1,20 +1,21 @@
-import Image from "next/image";
 import { Metadata } from 'next';
 import GameSelection from "@/app/ui/game-selection";
 import WipImage from "@/app/ui/wip";
+import { getGameState } from "@/app/lib/actions";
 import MainGame from "../lib/main-game";
 
 export const metadata: Metadata = {
   title: 'Home',
 };
 
-export default function Home() {
+export default async function Home() {
+  const gameState = await getGameState();
+  const started = gameState !== "game not started";
+
   return (
     <main>
       <WipImage />
-      <h1>Home</h1>
-      <GameSelection />
-      <MainGame />
+      {started ? <MainGame /> : <GameSelection />}
     </main>
   );
 }

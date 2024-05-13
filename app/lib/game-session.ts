@@ -22,11 +22,11 @@ export default class GameSession {
     constructor() {
         this.items = [];
         this.currentItem = Item.emptyItem();
-        this.points = 0;
-        this.level = 1;
-        this.maxLevel = 30;
+        this.points = -1;
+        this.level = -1;
+        this.maxLevel = -1;
         this.answers = ["_", "_", "_", "_"];
-        this.correctAnswerIndex = 0;
+        this.correctAnswerIndex = -1;
         this.indexes = [];
         this.gameIsOver = false;
     }
@@ -34,6 +34,7 @@ export default class GameSession {
 
     async initGameWithJsonURL(jsonUrl: URL) {
         this.items = await Item.fetchUniques(jsonUrl);
+        console.log(`[GameSession] Items fetched: ${this.items.length}`);
         this.resetGame();
     }
 
@@ -46,7 +47,10 @@ export default class GameSession {
         this.gameIsOver = false;
         this.points = 0;
         this.level = 1;
+        this.maxLevel = 10;
         this.generateIndexes();
+        const i = this.indexes[this.level - 1];
+        console.log(`[GameSession] Loading 1st item, index ${i}`);
         this.loadItem(this.items[this.indexes[this.level - 1]]);
     }
 
@@ -55,6 +59,7 @@ export default class GameSession {
         for (let i = 0; i < this.maxLevel; i++) {
             this.indexes.push(Math.floor(Math.random() * this.items.length));
         }
+        console.log(`[GameSession] Indexes generated: ${this.indexes}`);
     }
 
     guess(n: number) {
@@ -73,6 +78,7 @@ export default class GameSession {
     }
 
     loadItem(item: Item) {
+        console.log(`[GameSession] Loading item: ${item.name}`);
         this.currentItem = item;
         this.correctAnswerIndex = Math.floor(Math.random() * 4);
         this.answers[this.correctAnswerIndex] = this.currentItem.name;
@@ -88,6 +94,10 @@ export default class GameSession {
         }
     }
 
+    toJson(): string {
+        return JSON.stringify(this);
+    }
+    
     getGameState(): GameState {
         return {
             points: this.points,

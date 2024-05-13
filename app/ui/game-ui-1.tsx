@@ -16,7 +16,7 @@ export default function GameUI_1({state}: {state: GameState}) {
       </div>
     );
   }
-  console.log(`[${i++}]Current State: ${JSON.stringify(state, null, 2)}`);
+  console.log(`[${i++}]Current State: ${JSON.stringify(state)}`);
   return (
     <>
       <div className="flex w-[600px]">
@@ -31,10 +31,10 @@ export default function GameUI_1({state}: {state: GameState}) {
             <p>Level: {state.level} / {state.maxLevel}</p>
           </div>
 
-          <button className="bg-gray-800 text-white p-2 rounded-md" type="button" onClick={() => guess(0)}>{state.answers[0]}</button>
-          <button className="bg-gray-800 text-white p-2 rounded-md" type="button" onClick={() => guess(1)}>{state.answers[1]}</button>
-          <button className="bg-gray-800 text-white p-2 rounded-md" type="button" onClick={() => guess(2)}>{state.answers[2]}</button>
-          <button className="bg-gray-800 text-white p-2 rounded-md" type="button" onClick={() => guess(3)}>{state.answers[3]}</button>
+          <button className="bg-gray-800 hover:bg-amber-600 text-white p-2 rounded-md" type="button" onClick={() => guess(0)}>{state.answers[0]}</button>
+          <button className="bg-gray-800 hover:bg-amber-600 text-white p-2 rounded-md" type="button" onClick={() => guess(1)}>{state.answers[1]}</button>
+          <button className="bg-gray-800 hover:bg-amber-600 text-white p-2 rounded-md" type="button" onClick={() => guess(2)}>{state.answers[2]}</button>
+          <button className="bg-gray-800 hover:bg-amber-600 text-white p-2 rounded-md" type="button" onClick={() => guess(3)}>{state.answers[3]}</button>
         </div>
       </div>
     </>
