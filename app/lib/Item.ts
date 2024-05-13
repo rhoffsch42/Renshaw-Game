@@ -53,6 +53,16 @@ export default class Item {
         );
     }
 
+    public static emptyItem(): Item {
+        return {
+            id: -1,
+            image_url: new URL("https://web.poecdn.com/image/Art/2DItems/Belts/Headhunter.png"),
+            name: "None",
+            wiki_url: new URL("https://www.poewiki.net/wiki/"),
+            difficulty: 1,
+        };
+    }
+
     /**
      * Filters uniques with duplicate arts and alternate arts, also filters duplicate entrys
      */

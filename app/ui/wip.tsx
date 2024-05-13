@@ -5,7 +5,7 @@ export default function WipImage() {
   return (
     <>
       <h1>Work in progress</h1>
-      <Image src={wipImage} alt="Work in progress" width="300" height="300" />
+      <Image src={wipImage} alt="Work in progress" />
     </>
   );
 }

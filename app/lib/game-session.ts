@@ -1,6 +1,14 @@
 import Item from "@/app/lib/Item";
 
-export default class GameState {
+export type GameState = {
+    points: number;
+    level: number;
+    maxLevel: number;
+    answers: string[];
+    img: string;
+};
+
+export default class GameSession {
     items: Item[];
     currentItem: Item;
     points: number;
@@ -13,7 +21,7 @@ export default class GameState {
 
     constructor() {
         this.items = [];
-        this.currentItem = {} as Item;
+        this.currentItem = Item.emptyItem();
         this.points = 0;
         this.level = 1;
         this.maxLevel = 30;
@@ -48,12 +56,12 @@ export default class GameState {
             this.indexes.push(Math.floor(Math.random() * this.items.length));
         }
     }
-    
+
     guess(n: number) {
-        console.log("guess is " + n);
-        console.log("correct answer is " + this.correctAnswerIndex);
+        console.log(`Guessing ${n}. Correct answer is ${this.correctAnswerIndex}`);
+
         if (n === this.correctAnswerIndex) {
-            this. points++;
+            this.points++;
         }
         if (this.level !== this.maxLevel) {
             this.level++;
@@ -78,5 +86,15 @@ export default class GameState {
             }
             this.answers[i] = this.items[randomIndex].name;
         }
+    }
+
+    getGameState(): GameState {
+        return {
+            points: this.points,
+            level: this.level,
+            maxLevel: this.maxLevel,
+            answers: this.answers,
+            img: this.currentItem.image_url.toString(),
+        };
     }
 }
