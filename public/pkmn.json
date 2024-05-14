@@ -1,0 +1,1059 @@
+[
+    {
+            "id": 0,
+            "name": "Bulbasaur",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/001.png",
+            "wiki_url": "/us/pokedex/bulbasaur",
+            "difficulty": 1
+    },
+    {
+            "id": 1,
+            "name": "Ivysaur",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/002.png",
+            "wiki_url": "/us/pokedex/ivysaur",
+            "difficulty": 1
+    },
+    {
+            "id": 2,
+            "name": "Venusaur",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/003.png",
+            "wiki_url": "/us/pokedex/venusaur",
+            "difficulty": 1
+    },
+    {
+            "id": 3,
+            "name": "Charmander",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/004.png",
+            "wiki_url": "/us/pokedex/charmander",
+            "difficulty": 1
+    },
+    {
+            "id": 4,
+            "name": "Charmeleon",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/005.png",
+            "wiki_url": "/us/pokedex/charmeleon",
+            "difficulty": 1
+    },
+    {
+            "id": 5,
+            "name": "Charizard",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/006.png",
+            "wiki_url": "/us/pokedex/charizard",
+            "difficulty": 1
+    },
+    {
+            "id": 6,
+            "name": "Squirtle",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/007.png",
+            "wiki_url": "/us/pokedex/squirtle",
+            "difficulty": 1
+    },
+    {
+            "id": 7,
+            "name": "Wartortle",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/008.png",
+            "wiki_url": "/us/pokedex/wartortle",
+            "difficulty": 1
+    },
+    {
+            "id": 8,
+            "name": "Blastoise",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/009.png",
+            "wiki_url": "/us/pokedex/blastoise",
+            "difficulty": 1
+    },
+    {
+            "id": 9,
+            "name": "Caterpie",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/010.png",
+            "wiki_url": "/us/pokedex/caterpie",
+            "difficulty": 1
+    },
+    {
+            "id": 10,
+            "name": "Metapod",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/011.png",
+            "wiki_url": "/us/pokedex/metapod",
+            "difficulty": 1
+    },
+    {
+            "id": 11,
+            "name": "Butterfree",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/012.png",
+            "wiki_url": "/us/pokedex/butterfree",
+            "difficulty": 1
+    },
+    {
+            "id": 12,
+            "name": "Weedle",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/013.png",
+            "wiki_url": "/us/pokedex/weedle",
+            "difficulty": 1
+    },
+    {
+            "id": 13,
+            "name": "Kakuna",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/014.png",
+            "wiki_url": "/us/pokedex/kakuna",
+            "difficulty": 1
+    },
+    {
+            "id": 14,
+            "name": "Beedrill",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/015.png",
+            "wiki_url": "/us/pokedex/beedrill",
+            "difficulty": 1
+    },
+    {
+            "id": 15,
+            "name": "Pidgey",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/016.png",
+            "wiki_url": "/us/pokedex/pidgey",
+            "difficulty": 1
+    },
+    {
+            "id": 16,
+            "name": "Pidgeotto",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/017.png",
+            "wiki_url": "/us/pokedex/pidgeotto",
+            "difficulty": 1
+    },
+    {
+            "id": 17,
+            "name": "Pidgeot",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/018.png",
+            "wiki_url": "/us/pokedex/pidgeot",
+            "difficulty": 1
+    },
+    {
+            "id": 18,
+            "name": "Rattata",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/019.png",
+            "wiki_url": "/us/pokedex/rattata",
+            "difficulty": 1
+    },
+    {
+            "id": 19,
+            "name": "Raticate",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/020.png",
+            "wiki_url": "/us/pokedex/raticate",
+            "difficulty": 1
+    },
+    {
+            "id": 20,
+            "name": "Spearow",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/021.png",
+            "wiki_url": "/us/pokedex/spearow",
+            "difficulty": 1
+    },
+    {
+            "id": 21,
+            "name": "Fearow",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/022.png",
+            "wiki_url": "/us/pokedex/fearow",
+            "difficulty": 1
+    },
+    {
+            "id": 22,
+            "name": "Ekans",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/023.png",
+            "wiki_url": "/us/pokedex/ekans",
+            "difficulty": 1
+    },
+    {
+            "id": 23,
+            "name": "Arbok",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/024.png",
+            "wiki_url": "/us/pokedex/arbok",
+            "difficulty": 1
+    },
+    {
+            "id": 24,
+            "name": "Pikachu",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/025.png",
+            "wiki_url": "/us/pokedex/pikachu",
+            "difficulty": 1
+    },
+    {
+            "id": 25,
+            "name": "Raichu",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/026.png",
+            "wiki_url": "/us/pokedex/raichu",
+            "difficulty": 1
+    },
+    {
+            "id": 26,
+            "name": "Sandshrew",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/027.png",
+            "wiki_url": "/us/pokedex/sandshrew",
+            "difficulty": 1
+    },
+    {
+            "id": 27,
+            "name": "Sandslash",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/028.png",
+            "wiki_url": "/us/pokedex/sandslash",
+            "difficulty": 1
+    },
+    {
+            "id": 28,
+            "name": "Nidoran♀",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/029.png",
+            "wiki_url": "/us/pokedex/nidoran-female",
+            "difficulty": 1
+    },
+    {
+            "id": 29,
+            "name": "Nidorina",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/030.png",
+            "wiki_url": "/us/pokedex/nidorina",
+            "difficulty": 1
+    },
+    {
+            "id": 30,
+            "name": "Nidoqueen",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/031.png",
+            "wiki_url": "/us/pokedex/nidoqueen",
+            "difficulty": 1
+    },
+    {
+            "id": 31,
+            "name": "Nidoran♂",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/032.png",
+            "wiki_url": "/us/pokedex/nidoran-male",
+            "difficulty": 1
+    },
+    {
+            "id": 32,
+            "name": "Nidorino",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/033.png",
+            "wiki_url": "/us/pokedex/nidorino",
+            "difficulty": 1
+    },
+    {
+            "id": 33,
+            "name": "Nidoking",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/034.png",
+            "wiki_url": "/us/pokedex/nidoking",
+            "difficulty": 1
+    },
+    {
+            "id": 34,
+            "name": "Clefairy",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/035.png",
+            "wiki_url": "/us/pokedex/clefairy",
+            "difficulty": 1
+    },
+    {
+            "id": 35,
+            "name": "Clefable",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/036.png",
+            "wiki_url": "/us/pokedex/clefable",
+            "difficulty": 1
+    },
+    {
+            "id": 36,
+            "name": "Vulpix",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/037.png",
+            "wiki_url": "/us/pokedex/vulpix",
+            "difficulty": 1
+    },
+    {
+            "id": 37,
+            "name": "Ninetales",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/038.png",
+            "wiki_url": "/us/pokedex/ninetales",
+            "difficulty": 1
+    },
+    {
+            "id": 38,
+            "name": "Jigglypuff",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/039.png",
+            "wiki_url": "/us/pokedex/jigglypuff",
+            "difficulty": 1
+    },
+    {
+            "id": 39,
+            "name": "Wigglytuff",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/040.png",
+            "wiki_url": "/us/pokedex/wigglytuff",
+            "difficulty": 1
+    },
+    {
+            "id": 40,
+            "name": "Zubat",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/041.png",
+            "wiki_url": "/us/pokedex/zubat",
+            "difficulty": 1
+    },
+    {
+            "id": 41,
+            "name": "Golbat",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/042.png",
+            "wiki_url": "/us/pokedex/golbat",
+            "difficulty": 1
+    },
+    {
+            "id": 42,
+            "name": "Oddish",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/043.png",
+            "wiki_url": "/us/pokedex/oddish",
+            "difficulty": 1
+    },
+    {
+            "id": 43,
+            "name": "Gloom",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/044.png",
+            "wiki_url": "/us/pokedex/gloom",
+            "difficulty": 1
+    },
+    {
+            "id": 44,
+            "name": "Vileplume",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/045.png",
+            "wiki_url": "/us/pokedex/vileplume",
+            "difficulty": 1
+    },
+    {
+            "id": 45,
+            "name": "Paras",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/046.png",
+            "wiki_url": "/us/pokedex/paras",
+            "difficulty": 1
+    },
+    {
+            "id": 46,
+            "name": "Parasect",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/047.png",
+            "wiki_url": "/us/pokedex/parasect",
+            "difficulty": 1
+    },
+    {
+            "id": 47,
+            "name": "Venonat",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/048.png",
+            "wiki_url": "/us/pokedex/venonat",
+            "difficulty": 1
+    },
+    {
+            "id": 48,
+            "name": "Venomoth",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/049.png",
+            "wiki_url": "/us/pokedex/venomoth",
+            "difficulty": 1
+    },
+    {
+            "id": 49,
+            "name": "Diglett",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/050.png",
+            "wiki_url": "/us/pokedex/diglett",
+            "difficulty": 1
+    },
+    {
+            "id": 50,
+            "name": "Dugtrio",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/051.png",
+            "wiki_url": "/us/pokedex/dugtrio",
+            "difficulty": 1
+    },
+    {
+            "id": 51,
+            "name": "Meowth",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/052.png",
+            "wiki_url": "/us/pokedex/meowth",
+            "difficulty": 1
+    },
+    {
+            "id": 52,
+            "name": "Persian",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/053.png",
+            "wiki_url": "/us/pokedex/persian",
+            "difficulty": 1
+    },
+    {
+            "id": 53,
+            "name": "Psyduck",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/054.png",
+            "wiki_url": "/us/pokedex/psyduck",
+            "difficulty": 1
+    },
+    {
+            "id": 54,
+            "name": "Golduck",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/055.png",
+            "wiki_url": "/us/pokedex/golduck",
+            "difficulty": 1
+    },
+    {
+            "id": 55,
+            "name": "Mankey",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/056.png",
+            "wiki_url": "/us/pokedex/mankey",
+            "difficulty": 1
+    },
+    {
+            "id": 56,
+            "name": "Primeape",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/057.png",
+            "wiki_url": "/us/pokedex/primeape",
+            "difficulty": 1
+    },
+    {
+            "id": 57,
+            "name": "Growlithe",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/058.png",
+            "wiki_url": "/us/pokedex/growlithe",
+            "difficulty": 1
+    },
+    {
+            "id": 58,
+            "name": "Arcanine",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/059.png",
+            "wiki_url": "/us/pokedex/arcanine",
+            "difficulty": 1
+    },
+    {
+            "id": 59,
+            "name": "Poliwag",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/060.png",
+            "wiki_url": "/us/pokedex/poliwag",
+            "difficulty": 1
+    },
+    {
+            "id": 60,
+            "name": "Poliwhirl",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/061.png",
+            "wiki_url": "/us/pokedex/poliwhirl",
+            "difficulty": 1
+    },
+    {
+            "id": 61,
+            "name": "Poliwrath",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/062.png",
+            "wiki_url": "/us/pokedex/poliwrath",
+            "difficulty": 1
+    },
+    {
+            "id": 62,
+            "name": "Abra",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/063.png",
+            "wiki_url": "/us/pokedex/abra",
+            "difficulty": 1
+    },
+    {
+            "id": 63,
+            "name": "Kadabra",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/064.png",
+            "wiki_url": "/us/pokedex/kadabra",
+            "difficulty": 1
+    },
+    {
+            "id": 64,
+            "name": "Alakazam",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/065.png",
+            "wiki_url": "/us/pokedex/alakazam",
+            "difficulty": 1
+    },
+    {
+            "id": 65,
+            "name": "Machop",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/066.png",
+            "wiki_url": "/us/pokedex/machop",
+            "difficulty": 1
+    },
+    {
+            "id": 66,
+            "name": "Machoke",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/067.png",
+            "wiki_url": "/us/pokedex/machoke",
+            "difficulty": 1
+    },
+    {
+            "id": 67,
+            "name": "Machamp",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/068.png",
+            "wiki_url": "/us/pokedex/machamp",
+            "difficulty": 1
+    },
+    {
+            "id": 68,
+            "name": "Bellsprout",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/069.png",
+            "wiki_url": "/us/pokedex/bellsprout",
+            "difficulty": 1
+    },
+    {
+            "id": 69,
+            "name": "Weepinbell",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/070.png",
+            "wiki_url": "/us/pokedex/weepinbell",
+            "difficulty": 1
+    },
+    {
+            "id": 70,
+            "name": "Victreebel",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/071.png",
+            "wiki_url": "/us/pokedex/victreebel",
+            "difficulty": 1
+    },
+    {
+            "id": 71,
+            "name": "Tentacool",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/072.png",
+            "wiki_url": "/us/pokedex/tentacool",
+            "difficulty": 1
+    },
+    {
+            "id": 72,
+            "name": "Tentacruel",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/073.png",
+            "wiki_url": "/us/pokedex/tentacruel",
+            "difficulty": 1
+    },
+    {
+            "id": 73,
+            "name": "Geodude",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/074.png",
+            "wiki_url": "/us/pokedex/geodude",
+            "difficulty": 1
+    },
+    {
+            "id": 74,
+            "name": "Graveler",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/075.png",
+            "wiki_url": "/us/pokedex/graveler",
+            "difficulty": 1
+    },
+    {
+            "id": 75,
+            "name": "Golem",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/076.png",
+            "wiki_url": "/us/pokedex/golem",
+            "difficulty": 1
+    },
+    {
+            "id": 76,
+            "name": "Ponyta",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/077.png",
+            "wiki_url": "/us/pokedex/ponyta",
+            "difficulty": 1
+    },
+    {
+            "id": 77,
+            "name": "Rapidash",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/078.png",
+            "wiki_url": "/us/pokedex/rapidash",
+            "difficulty": 1
+    },
+    {
+            "id": 78,
+            "name": "Slowpoke",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/079.png",
+            "wiki_url": "/us/pokedex/slowpoke",
+            "difficulty": 1
+    },
+    {
+            "id": 79,
+            "name": "Slowbro",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/080.png",
+            "wiki_url": "/us/pokedex/slowbro",
+            "difficulty": 1
+    },
+    {
+            "id": 80,
+            "name": "Magnemite",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/081.png",
+            "wiki_url": "/us/pokedex/magnemite",
+            "difficulty": 1
+    },
+    {
+            "id": 81,
+            "name": "Magneton",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/082.png",
+            "wiki_url": "/us/pokedex/magneton",
+            "difficulty": 1
+    },
+    {
+            "id": 82,
+            "name": "Farfetch’d",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/083.png",
+            "wiki_url": "/us/pokedex/farfetchd",
+            "difficulty": 1
+    },
+    {
+            "id": 83,
+            "name": "Doduo",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/084.png",
+            "wiki_url": "/us/pokedex/doduo",
+            "difficulty": 1
+    },
+    {
+            "id": 84,
+            "name": "Dodrio",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/085.png",
+            "wiki_url": "/us/pokedex/dodrio",
+            "difficulty": 1
+    },
+    {
+            "id": 85,
+            "name": "Seel",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/086.png",
+            "wiki_url": "/us/pokedex/seel",
+            "difficulty": 1
+    },
+    {
+            "id": 86,
+            "name": "Dewgong",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/087.png",
+            "wiki_url": "/us/pokedex/dewgong",
+            "difficulty": 1
+    },
+    {
+            "id": 87,
+            "name": "Grimer",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/088.png",
+            "wiki_url": "/us/pokedex/grimer",
+            "difficulty": 1
+    },
+    {
+            "id": 88,
+            "name": "Muk",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/089.png",
+            "wiki_url": "/us/pokedex/muk",
+            "difficulty": 1
+    },
+    {
+            "id": 89,
+            "name": "Shellder",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/090.png",
+            "wiki_url": "/us/pokedex/shellder",
+            "difficulty": 1
+    },
+    {
+            "id": 90,
+            "name": "Cloyster",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/091.png",
+            "wiki_url": "/us/pokedex/cloyster",
+            "difficulty": 1
+    },
+    {
+            "id": 91,
+            "name": "Gastly",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/092.png",
+            "wiki_url": "/us/pokedex/gastly",
+            "difficulty": 1
+    },
+    {
+            "id": 92,
+            "name": "Haunter",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/093.png",
+            "wiki_url": "/us/pokedex/haunter",
+            "difficulty": 1
+    },
+    {
+            "id": 93,
+            "name": "Gengar",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/094.png",
+            "wiki_url": "/us/pokedex/gengar",
+            "difficulty": 1
+    },
+    {
+            "id": 94,
+            "name": "Onix",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/095.png",
+            "wiki_url": "/us/pokedex/onix",
+            "difficulty": 1
+    },
+    {
+            "id": 95,
+            "name": "Drowzee",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/096.png",
+            "wiki_url": "/us/pokedex/drowzee",
+            "difficulty": 1
+    },
+    {
+            "id": 96,
+            "name": "Hypno",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/097.png",
+            "wiki_url": "/us/pokedex/hypno",
+            "difficulty": 1
+    },
+    {
+            "id": 97,
+            "name": "Krabby",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/098.png",
+            "wiki_url": "/us/pokedex/krabby",
+            "difficulty": 1
+    },
+    {
+            "id": 98,
+            "name": "Kingler",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/099.png",
+            "wiki_url": "/us/pokedex/kingler",
+            "difficulty": 1
+    },
+    {
+            "id": 99,
+            "name": "Voltorb",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/100.png",
+            "wiki_url": "/us/pokedex/voltorb",
+            "difficulty": 1
+    },
+    {
+            "id": 100,
+            "name": "Electrode",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/101.png",
+            "wiki_url": "/us/pokedex/electrode",
+            "difficulty": 1
+    },
+    {
+            "id": 101,
+            "name": "Exeggcute",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/102.png",
+            "wiki_url": "/us/pokedex/exeggcute",
+            "difficulty": 1
+    },
+    {
+            "id": 102,
+            "name": "Exeggutor",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/103.png",
+            "wiki_url": "/us/pokedex/exeggutor",
+            "difficulty": 1
+    },
+    {
+            "id": 103,
+            "name": "Cubone",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/104.png",
+            "wiki_url": "/us/pokedex/cubone",
+            "difficulty": 1
+    },
+    {
+            "id": 104,
+            "name": "Marowak",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/105.png",
+            "wiki_url": "/us/pokedex/marowak",
+            "difficulty": 1
+    },
+    {
+            "id": 105,
+            "name": "Hitmonlee",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/106.png",
+            "wiki_url": "/us/pokedex/hitmonlee",
+            "difficulty": 1
+    },
+    {
+            "id": 106,
+            "name": "Hitmonchan",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/107.png",
+            "wiki_url": "/us/pokedex/hitmonchan",
+            "difficulty": 1
+    },
+    {
+            "id": 107,
+            "name": "Lickitung",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/108.png",
+            "wiki_url": "/us/pokedex/lickitung",
+            "difficulty": 1
+    },
+    {
+            "id": 108,
+            "name": "Koffing",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/109.png",
+            "wiki_url": "/us/pokedex/koffing",
+            "difficulty": 1
+    },
+    {
+            "id": 109,
+            "name": "Weezing",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/110.png",
+            "wiki_url": "/us/pokedex/weezing",
+            "difficulty": 1
+    },
+    {
+            "id": 110,
+            "name": "Rhyhorn",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/111.png",
+            "wiki_url": "/us/pokedex/rhyhorn",
+            "difficulty": 1
+    },
+    {
+            "id": 111,
+            "name": "Rhydon",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/112.png",
+            "wiki_url": "/us/pokedex/rhydon",
+            "difficulty": 1
+    },
+    {
+            "id": 112,
+            "name": "Chansey",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/113.png",
+            "wiki_url": "/us/pokedex/chansey",
+            "difficulty": 1
+    },
+    {
+            "id": 113,
+            "name": "Tangela",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/114.png",
+            "wiki_url": "/us/pokedex/tangela",
+            "difficulty": 1
+    },
+    {
+            "id": 114,
+            "name": "Kangaskhan",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/115.png",
+            "wiki_url": "/us/pokedex/kangaskhan",
+            "difficulty": 1
+    },
+    {
+            "id": 115,
+            "name": "Horsea",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/116.png",
+            "wiki_url": "/us/pokedex/horsea",
+            "difficulty": 1
+    },
+    {
+            "id": 116,
+            "name": "Seadra",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/117.png",
+            "wiki_url": "/us/pokedex/seadra",
+            "difficulty": 1
+    },
+    {
+            "id": 117,
+            "name": "Goldeen",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/118.png",
+            "wiki_url": "/us/pokedex/goldeen",
+            "difficulty": 1
+    },
+    {
+            "id": 118,
+            "name": "Seaking",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/119.png",
+            "wiki_url": "/us/pokedex/seaking",
+            "difficulty": 1
+    },
+    {
+            "id": 119,
+            "name": "Staryu",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/120.png",
+            "wiki_url": "/us/pokedex/staryu",
+            "difficulty": 1
+    },
+    {
+            "id": 120,
+            "name": "Starmie",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/121.png",
+            "wiki_url": "/us/pokedex/starmie",
+            "difficulty": 1
+    },
+    {
+            "id": 121,
+            "name": "Mr. Mime",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/122.png",
+            "wiki_url": "/us/pokedex/mr-mime",
+            "difficulty": 1
+    },
+    {
+            "id": 122,
+            "name": "Scyther",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/123.png",
+            "wiki_url": "/us/pokedex/scyther",
+            "difficulty": 1
+    },
+    {
+            "id": 123,
+            "name": "Jynx",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/124.png",
+            "wiki_url": "/us/pokedex/jynx",
+            "difficulty": 1
+    },
+    {
+            "id": 124,
+            "name": "Electabuzz",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/125.png",
+            "wiki_url": "/us/pokedex/electabuzz",
+            "difficulty": 1
+    },
+    {
+            "id": 125,
+            "name": "Magmar",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/126.png",
+            "wiki_url": "/us/pokedex/magmar",
+            "difficulty": 1
+    },
+    {
+            "id": 126,
+            "name": "Pinsir",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/127.png",
+            "wiki_url": "/us/pokedex/pinsir",
+            "difficulty": 1
+    },
+    {
+            "id": 127,
+            "name": "Tauros",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/128.png",
+            "wiki_url": "/us/pokedex/tauros",
+            "difficulty": 1
+    },
+    {
+            "id": 128,
+            "name": "Magikarp",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/129.png",
+            "wiki_url": "/us/pokedex/magikarp",
+            "difficulty": 1
+    },
+    {
+            "id": 129,
+            "name": "Gyarados",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/130.png",
+            "wiki_url": "/us/pokedex/gyarados",
+            "difficulty": 1
+    },
+    {
+            "id": 130,
+            "name": "Lapras",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/131.png",
+            "wiki_url": "/us/pokedex/lapras",
+            "difficulty": 1
+    },
+    {
+            "id": 131,
+            "name": "Ditto",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/132.png",
+            "wiki_url": "/us/pokedex/ditto",
+            "difficulty": 1
+    },
+    {
+            "id": 132,
+            "name": "Eevee",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/133.png",
+            "wiki_url": "/us/pokedex/eevee",
+            "difficulty": 1
+    },
+    {
+            "id": 133,
+            "name": "Vaporeon",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/134.png",
+            "wiki_url": "/us/pokedex/vaporeon",
+            "difficulty": 1
+    },
+    {
+            "id": 134,
+            "name": "Jolteon",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/135.png",
+            "wiki_url": "/us/pokedex/jolteon",
+            "difficulty": 1
+    },
+    {
+            "id": 135,
+            "name": "Flareon",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/136.png",
+            "wiki_url": "/us/pokedex/flareon",
+            "difficulty": 1
+    },
+    {
+            "id": 136,
+            "name": "Porygon",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/137.png",
+            "wiki_url": "/us/pokedex/porygon",
+            "difficulty": 1
+    },
+    {
+            "id": 137,
+            "name": "Omanyte",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/138.png",
+            "wiki_url": "/us/pokedex/omanyte",
+            "difficulty": 1
+    },
+    {
+            "id": 138,
+            "name": "Omastar",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/139.png",
+            "wiki_url": "/us/pokedex/omastar",
+            "difficulty": 1
+    },
+    {
+            "id": 139,
+            "name": "Kabuto",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/140.png",
+            "wiki_url": "/us/pokedex/kabuto",
+            "difficulty": 1
+    },
+    {
+            "id": 140,
+            "name": "Kabutops",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/141.png",
+            "wiki_url": "/us/pokedex/kabutops",
+            "difficulty": 1
+    },
+    {
+            "id": 141,
+            "name": "Aerodactyl",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/142.png",
+            "wiki_url": "/us/pokedex/aerodactyl",
+            "difficulty": 1
+    },
+    {
+            "id": 142,
+            "name": "Snorlax",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/143.png",
+            "wiki_url": "/us/pokedex/snorlax",
+            "difficulty": 1
+    },
+    {
+            "id": 143,
+            "name": "Articuno",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/144.png",
+            "wiki_url": "/us/pokedex/articuno",
+            "difficulty": 1
+    },
+    {
+            "id": 144,
+            "name": "Zapdos",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/145.png",
+            "wiki_url": "/us/pokedex/zapdos",
+            "difficulty": 1
+    },
+    {
+            "id": 145,
+            "name": "Moltres",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/146.png",
+            "wiki_url": "/us/pokedex/moltres",
+            "difficulty": 1
+    },
+    {
+            "id": 146,
+            "name": "Dratini",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/147.png",
+            "wiki_url": "/us/pokedex/dratini",
+            "difficulty": 1
+    },
+    {
+            "id": 147,
+            "name": "Dragonair",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/148.png",
+            "wiki_url": "/us/pokedex/dragonair",
+            "difficulty": 1
+    },
+    {
+            "id": 148,
+            "name": "Dragonite",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/149.png",
+            "wiki_url": "/us/pokedex/dragonite",
+            "difficulty": 1
+    },
+    {
+            "id": 149,
+            "name": "Mewtwo",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/150.png",
+            "wiki_url": "/us/pokedex/mewtwo",
+            "difficulty": 1
+    },
+    {
+            "id": 150,
+            "name": "Mew",
+            "image_url": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/151.png",
+            "wiki_url": "/us/pokedex/mew",
+            "difficulty": 1
+    }
+]
