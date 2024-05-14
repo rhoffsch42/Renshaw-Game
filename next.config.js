@@ -1,6 +1,6 @@
 module.exports = {
 	images: {
-		domains: ['web.poecdn.com'],
+		domains: ['web.poecdn.com', 'www.pokemon.com'],
 	},
 }
 

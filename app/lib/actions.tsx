@@ -3,12 +3,10 @@
 import GameSession from "@/app/lib/game-session";
 import { revalidatePath } from "next/cache";
 
-const jsonUrl: URL = new URL(
-    "https://raw.githubusercontent.com/rhoffsch42/Renshaw-Game/main/public/uniques_filtered.json",
-);
+
 let gameSession:GameSession;
 
-export async function startGame() {
+export async function startGame(jsonUrl: string) {
     if (gameSession) {
         console.log(`[actions.tsx startGame()] Game already started`);
         revalidatePath('/game');
@@ -18,7 +16,7 @@ export async function startGame() {
     console.log(`[actions.tsx startGame()] Starting Game`);
     gameSession = new GameSession();
     console.log("[actions.tsx startGame()] Game Session Created");
-    await gameSession.initGameWithJsonURL(jsonUrl);
+    await gameSession.initGameWithJsonURL(new URL(jsonUrl));
     console.log(`[actions.tsx startGame()] initGameWithJsonURL done. Current State: ${JSON.stringify(gameSession.getGameState())}`);
     revalidatePath('/game');
 }
@@ -61,4 +59,17 @@ export async function getGameState() {
     console.log("[actions.tsx getGameState()] Getting Game State");
     console.log(`[actions.tsx getGameState()] Current State: ${JSON.stringify(gameSession.getGameState())}`);
     return JSON.stringify(gameSession.getGameState());
+}
+
+export async function playAgain() {
+    if (!gameSession) {
+        console.log(`[actions.tsx PlayAgain()] Game not started`);
+        return 'game not started';
+    }
+
+    console.log(`[actions.tsx PlayAgain()] Playing Again`);
+    gameSession.resetGame();
+    console.log(`[actions.tsx PlayAgain()] Current State: ${JSON.stringify(gameSession.getGameState())}`);
+    revalidatePath('/game');
+    return 'played again';
 }

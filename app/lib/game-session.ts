@@ -6,6 +6,7 @@ export type GameState = {
     maxLevel: number;
     answers: string[];
     img: string;
+    gameIsOver: boolean;
 };
 
 export default class GameSession {
@@ -105,6 +106,7 @@ export default class GameSession {
             maxLevel: this.maxLevel,
             answers: this.answers,
             img: this.currentItem.image_url.toString(),
+            gameIsOver: this.gameIsOver,
         };
     }
 }

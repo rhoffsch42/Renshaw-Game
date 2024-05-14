@@ -67,6 +67,7 @@ export default async function Home() {
   - About page
   - flask arts are too big, they are decomposed in 3 parts. We need to find a way to display them correctly. Or we filter them out.
   - add a tooltip when hovering the wiki button showing the extracted text from the wiki page
+  - marathon mode: all uniques in a row
 
   SHORT
   - add a button to go back to the main menu
